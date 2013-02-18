@@ -1,4 +1,5 @@
 This is a simple script to sanitize and move mp3 files based on ID3 information.
+Script reads all files and (sub-)folders under working directory.
 
 Tracks are sorted to three kinds of contexts:
 1. "ordinary" albums
