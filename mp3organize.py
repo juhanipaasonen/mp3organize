@@ -101,6 +101,8 @@ def get_tracks(directory, albums, single_tracks):
                 for char in trackno:
                     if char.isdigit():
                         temp += char
+                    else:
+                        break
                 trackno = temp
 
             song = Song(os.path.join(path, fname), artist, album, title, date, trackno)
