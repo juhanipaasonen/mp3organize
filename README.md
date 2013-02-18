@@ -10,4 +10,4 @@ Tracks are sorted to three kinds of contexts:
     Track is outside albums, if there is no track number or there's no album tag.
 
 Licensed under Creative Commons Attribution-ShareAlike 
-[http://creativecommons.org/licenses/by-sa/3.0/](CC BY-SA)
+(http://creativecommons.org/licenses/by-sa/3.0/)[CC BY-SA]
